@@ -7,7 +7,7 @@ from time import gmtime, strftime
 from multiprocessing import Pool
 
 
-url = "https://v2.arabam.com/sitemap/sitemap.xml"
+url = "https://www.arabam.com/sitemap/sitemap.xml"
 logfilePath = strftime("%Y%m%d%H%M%S", gmtime()) + ".log"
 log = open(logfilePath, "w") 
 
