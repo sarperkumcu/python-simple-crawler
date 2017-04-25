@@ -1,7 +1,7 @@
 # README #
 
 
-### Pyhton ile ilgili yapılacak şeyler burada biriktirlebilir ###
+### To check if your site working propelry ###
 
 * Crawler
 * ...
